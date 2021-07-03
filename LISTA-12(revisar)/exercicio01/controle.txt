@@ -1,0 +1,27 @@
+MOTOR 1
+Janeiro: custo->R$120.00 / lucro->R$36.00
+Fevereiro: custo->R$560.00 / lucro->R$168.00
+Marco: custo->R$230.00 / lucro->R$69.00
+Abril: custo->R$120.00 / lucro->R$36.00
+Maio: custo->R$320.00 / lucro->R$96.00
+Junho: custo->R$120.00 / lucro->R$36.00
+Julho: custo->R$320.00 / lucro->R$96.00
+Agosto: custo->R$120.00 / lucro->R$36.00
+Setembro: custo->R$440.00 / lucro->R$132.00
+Outubro: custo->R$210.00 / lucro->R$63.00
+Novembro: custo->R$440.00 / lucro->R$132.00
+Dezembro: custo->R$210.00 / lucro->R$63.00
+===============================================================
+MOTOR 2
+Janeiro: custo->R$315.00 / lucro->R$42.00
+Fevereiro: custo->R$480.00 / lucro->R$64.00
+Marco: custo->R$840.00 / lucro->R$112.00
+Abril: custo->R$1155.00 / lucro->R$154.00
+Maio: custo->R$990.00 / lucro->R$132.00
+Junho: custo->R$675.00 / lucro->R$90.00
+Julho: custo->R$510.00 / lucro->R$68.00
+Agosto: custo->R$345.00 / lucro->R$46.00
+Setembro: custo->R$180.00 / lucro->R$24.00
+Outubro: custo->R$180.00 / lucro->R$24.00
+Novembro: custo->R$165.00 / lucro->R$22.00
+Dezembro: custo->R$30.00 / lucro->R$4.00

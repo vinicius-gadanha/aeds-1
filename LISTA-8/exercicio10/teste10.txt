@@ -1,0 +1,1 @@
+A soma dos divisores eh 42
